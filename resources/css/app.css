@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-octora-blue: #1a3fb5;
+  --color-octora-purple: #6b21a8;
+  --color-octora-dark: #1e1b4b;
+  --font-sans: 'Inter', sans-serif;
+}
